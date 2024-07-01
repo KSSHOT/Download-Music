@@ -12,5 +12,17 @@ Este programa descarga audio desde videos de YouTube y lo convierte automáticam
 
 Asegúrate de tener instaladas las siguientes bibliotecas Python:
 
-```pip install -r requirements.txt```
+1. PySimpleGUI
+2. Pydub
+3. Pytube
 
+## Uso
+
+1. **Clona el Repositorio:**
+   ```bash
+   git clone https://github.com/tu_usuario/tu_repositorio.git
+   cd tu_repositorio```
+
+Instala las Dependencias:
+
+```pip install -r requirements.txt```
