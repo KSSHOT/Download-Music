@@ -23,13 +23,13 @@ Asegúrate de tener instaladas las siguientes bibliotecas Python:
    git clone https://github.com/tu_usuario/tu_repositorio.git
    cd tu_repositorio```
 
-2. Instala las Dependencias:
+2. **Instala las Dependencias:**
    ```pip install -r requirements.txt```
 
-3. Ejecuta el Programa:
+3. **Ejecuta el Programa:**
    ```python main.py```
 
-4. Interfaz Gráfica:
+4. **Interfaz Gráfica:**
    - Introduce la URL del video de YouTube.
    - Selecciona la carpeta de destino para guardar el archivo de audio.
    - Haz clic en "Descargar" para iniciar la descarga y conversión.
@@ -38,6 +38,8 @@ Asegúrate de tener instaladas las siguientes bibliotecas Python:
 ## Capturas de Pantalla
 
 ![image](https://github.com/KSSHOT/Download-Music/assets/101493968/70a27f56-adec-4813-81a6-f02076131b9a)
+
+*Interfaz principal del programa*
 
 ![image](https://github.com/KSSHOT/Download-Music/assets/101493968/9ae16396-3387-4811-89d5-c9e5f1d8e2e0)
 
