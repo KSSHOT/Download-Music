@@ -12,5 +12,5 @@ Este programa descarga audio desde videos de YouTube y lo convierte automáticam
 
 Asegúrate de tener instaladas las siguientes bibliotecas Python:
 
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 
