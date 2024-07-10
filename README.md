@@ -20,8 +20,8 @@ Asegúrate de tener instaladas las siguientes bibliotecas Python:
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio```
+   git clone https://github.com/KSSHOT/Download-Music.git
+   ```
 
 2. **Instala las Dependencias:**
    ```pip install -r requirements.txt```
